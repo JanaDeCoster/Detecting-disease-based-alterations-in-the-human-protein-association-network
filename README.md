@@ -1,4 +1,4 @@
-#Detecting disease-based alterations in the human protein association network using publicly available network.
+# Detecting disease-based alterations in the human protein association network using publicly available network.
 
 This repository contain all code necessary to detect novel disease-associated proteins. The code has been written using Python version 3.8.3 and requires the implementation of the Pandas, Numpy, matplotlib and NetworkX packages.
 The first map of this repository contains the code used to collect and filter all data.
