@@ -9,4 +9,4 @@ The second map focusses on different algorithms that were tested to obtain the b
 
 The third map contains all code used to obtain the optimal parameters for the model,
 
-and sections 4.1, 4.2 and 4.3 focus on applying the computational model on a breast carcinoma-, schizophrenia- and intellectual disability based network, respectively.
+and maps 4.1, 4.2 and 4.3 focus on applying the computational model on a breast carcinoma-, schizophrenia- and intellectual disability based network, respectively.
